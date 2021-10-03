@@ -1,0 +1,26 @@
+.describe
+{
+    margin-right:20px;
+    margin-left:50px;
+    margin-bottom:20px;
+}
+.title
+{
+    margin-left:10%;
+    margin-bottom:20px;
+}
+.description
+{
+    margin-left:7%;
+    margin-bottom:20px;
+
+}
+input[type=text], select {
+    width: 20%;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 8px 10px;
+  
+  
+    
+  }

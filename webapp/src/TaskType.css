@@ -1,0 +1,22 @@
+.task{
+    margin-right:20px;
+    margin-left:150px;
+    margin-bottom:20px;
+
+    
+}
+.name{
+    font-weight: bold;
+    margin-left:15px;
+    
+}
+.header
+{
+    display:flex;
+    margin-left: 50px;
+}
+.menu
+{
+    background-color: #058095;
+}
+
